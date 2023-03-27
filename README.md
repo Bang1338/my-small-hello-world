@@ -32,6 +32,12 @@ My attempt to do a smallest "Hello, World!" PE32
 ## Why
 - Why not :)
 
+## Rule
+- Must be `Hello, World!`, not `hello world`, `hello, world!`, `GOODBYE WORLD`, `hello friend`,...
+- C, C++, any ASM. Just not Python or brainfuck or any kind of that.
+- Allowed to use compressor 
+- Allowed to mod the exe, just make sure that working.
+
 ## How to build
 - See [README.txt](https://github.com/Bang1338/my-small-hello-world/blob/main/README.txt) for info
 - For lazy:
