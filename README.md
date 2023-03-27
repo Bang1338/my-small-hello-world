@@ -54,3 +54,10 @@ Step 3: Set folder to the location that all file I mentioned here.
 Step 4. Run work[type].bat
 Step 5. Profit
 ```
+
+## Inspired from
+- [MattKC](https://github.com/itsmattkc): [Can you fit a whole game into a QR code?](https://www.youtube.com/watch?v=ExwqNreocpg)
+- [RAZOR 1911](https://github.com/razordemo): [Insert No Coins](https://github.com/razordemo/Insert-No-Coins)
+- [UPX](https://github.com/upx/upx)
+- [PECompact](https://bitsum.com/pecompact.htm)
+- a lot of keygen
