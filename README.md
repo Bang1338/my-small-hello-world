@@ -33,7 +33,7 @@ My attempt to do a smallest "Hello, World!" PE32
 - Why not :)
 
 ## How to build
-- See README.txt for info
+- See [README.txt](https://github.com/Bang1338/my-small-hello-world/blob/main/README.txt) for info
 - For lazy:
 ```
 - Note:     all compiled exe are using x86 Native Tools Command Prompt for VS 2019,
