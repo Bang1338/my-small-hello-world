@@ -2,7 +2,7 @@ This is my smallest "Hello, World!" in C and MASM32 compiled to exe.
 File include:
 
 
-crinkler.exe              - Crinkler, a compressor tool.
+crinkler.exe              - Crinkler, a compressor tool, you need to add it.
 
 hello_console.c           - Hello, World! code run on console.
 hello_g.c                 - Hello, World! code run on MessageBox, hide console included.
