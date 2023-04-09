@@ -10,7 +10,7 @@ My small "Hello, World!"
 
 <p align="center">
   <img src="https://img.shields.io/badge/language:-c-gray">
-  <img src="https://img.shields.io/badge/language:-asm (masm32)-gray">
+  <img src="https://img.shields.io/badge/language:-asm (masm32)-%236E4C13">
   <img src="https://img.shields.io/github/languages/top/Bang1338/my-small-hello-world">
 </p>
 
