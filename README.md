@@ -4,7 +4,7 @@ My small "Hello, World!"
 
 <p align="center"> 
   <kbd>
-<img src="https://cdn.discordapp.com/attachments/932186836447678529/1089826296986607687/Discord_pgWEBHG3UY.png">
+<img src="https://user-images.githubusercontent.com/75790567/230753689-e2ba9b1b-d286-43f8-8e76-6fc0e7f528b7.png">
   </kbd>
 </p>
 
@@ -20,14 +20,15 @@ My attempt to do a smallest "Hello, World!" PE32
 
 ## For lazy user
 
-|   Numbers   | Source Code |     EXE     | Size (byte) |         Description         |
-| ----------- | ----------- | ----------- | ----------- | --------------------------- | 
-|      1      | hello_gex.c |  hw_363gex  |     363     | messagebox, exit + hide     |
-|      2      | hello_g.c   |  hw_360g    |     360     | messagebox, hide            |
-|      3      | hello_nh.c  |  hw_353nh   |     353     | messagebox, no hide         |
-|      4      | hello_c.c   |  hw_352c    |     352     | console                     |
-|      5      | hello_c.c   |  hw_346c2   |     346     | console, with other compile |
-|      6      | helloasm.asm|  hw_345asm  |     345     | console, masm32             |
+|   Numbers   |  Source Code  |     EXE     | Size (byte) |         Description         |
+| ----------- | ------------- | ----------- | ----------- | --------------------------- | 
+|      1      | hello_gex.c   |  hw_363gex  |     363     | messagebox, exit + hide     |
+|      2      | hello_g.c     |  hw_360g    |     360     | messagebox, hide            |
+|      3      | hello_nh.c    |  hw_353nh   |     353     | messagebox, no hide         |
+|      4      | hello_c.c     |  hw_352c    |     352     | console                     |
+|      5      | hello_c.c     |  hw_346c2   |     346     | console, with other compile |
+|      6      | helloasm.asm  |  hw_345asm  |     345     | console, masm32             |
+|      7      | helloasm2.asm |  hw_343asm  |     343     | console, masm32             |
 
 ## Why
 - Why not :)
@@ -61,3 +62,12 @@ Step 5. Profit
 - [UPX](https://github.com/upx/upx)
 - [PECompact](https://bitsum.com/pecompact.htm)
 - a lot of keygen
+
+## Special thank
+- x86matthew: Suggestion for optimizing (but some of them idk)
+<p align="center"> 
+  <kbd>
+<img src="https://user-images.githubusercontent.com/75790567/230753816-ab612064-e04f-44c3-99de-bd70a1ed977b.png">
+  </kbd>
+</p>
+
