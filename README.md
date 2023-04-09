@@ -18,6 +18,12 @@ My small "Hello, World!"
 My attempt to do a smallest "Hello, World!" PE32
 </h3>
 
+![Made With C](https://github.com/Bang1338/strg-bang1338/raw/main/img/forthebadge/MadeWith/made-with-c.svg)
+![Coded With CB](https://github.com/Bang1338/strg-bang1338/raw/main/img/forthebadge/CodedWith/coded-with-codeblock.svg)
+![Coded With Np++](https://github.com/Bang1338/strg-bang1338/raw/main/img/forthebadge/CodedWith/coded-with-notepad%2B%2B.svg)
+![Using Tool Crinkler](https://github.com/Bang1338/strg-bang1338/raw/main/img/forthebadge/Tools/using-tool-crinkler.svg)
+
+
 ## For lazy user
 
 |   Numbers   |  Source Code  |     EXE     | Size (byte) |         Description         |
